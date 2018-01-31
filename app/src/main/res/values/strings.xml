@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Firebasedb</string>
+    <array name="genriay">
+        <item>Rock</item>
+        <item>shook</item>
+        <item>dood</item>
+        <item>woook</item>
+    </array>
+</resources>
